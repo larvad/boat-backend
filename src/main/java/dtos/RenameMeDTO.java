@@ -18,6 +18,8 @@ public class RenameMeDTO {
     private String str1;
     private String str2;
 
+    private String hello;
+
     public RenameMeDTO(String dummyStr1, String dummyStr2) {
         this.str1 = dummyStr1;
         this.str2 = dummyStr2;
